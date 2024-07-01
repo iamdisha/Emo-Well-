@@ -94,8 +94,7 @@ const FeaturesSection = () => {
               alt=""
             />
             <DecorationTitle>Reading Area</DecorationTitle>
-            <p>Ready to unwind and let loose? Discover actionable mental health
-                 and wellbeing advice.</p>
+            <p>Ready to unwind and let loose? Take a look and help yourself becoming an aware person with a healthy mind!</p>
 
               <Link to="/readingarea">
                   <Button>Read Now</Button>
@@ -107,8 +106,7 @@ const FeaturesSection = () => {
               alt=""
             />
             <DecorationTitle>Explore Games</DecorationTitle>
-            <p>Experience the joy of play to relax and rejuvenate! Dive into
-                 our games for a refreshing escape.</p>
+            <p>Done with the boredom of life. Take a break and rejuvenate yourself! Dive into our games for a refreshing escape.</p>
               <Link to="./games">
                   <Button>Play Now</Button>
                 </Link>
@@ -120,7 +118,7 @@ const FeaturesSection = () => {
               alt=""
             />
             <DecorationTitle>Chat Bot</DecorationTitle>
-            <p>Engage in a lively chat with our friendly bot for a fun and
+            <p> Stuck? Engage in a lively chat with our friendly bot for a fun and
                  helpful interaction!</p>
               <Link to="https://emowellbeing.streamlit.app/" target="_blank">
                   <Button>Chat Now</Button>
@@ -133,8 +131,7 @@ const FeaturesSection = () => {
               alt=""
             />
             <DecorationTitle>Community Forum</DecorationTitle>
-            <p> Engage in a lively chat with our friendly bot for a fun and
-                 helpful interaction!</p>
+            <p> Feeling heavy? Share your thoughts and wisdom and have a healthy discussion!</p>
                  {isAuthenticated ? (
                 <Link to="/forum">
                   <Button>Learn More</Button>
