@@ -23,22 +23,7 @@
 Emowell is a web application aimed at enhancing emotional wellbeing by providing various features and resources to help individuals manage their mental health effectively. 
 The application includes a chatbot for seeking advice and support, a collection of games and activities for relaxation, a reading area with resources related to mental health, and a community forum for discussions and support.
 
-<div align="left">
-   <br>
-   <img src="https://img.shields.io/github/repo-size/Mansi168/EmoWell?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues/Mansi168/EmoWell?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-closed-raw/Mansi168/EmoWell?style=for-the-badge" />
-    <img src="https://img.shields.io/github/license/Mansi168/EmoWell?style=for-the-badge" />
 
-   <img src="https://img.shields.io/github/issues-pr/Mansi168/EmoWell?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors/Mansi168/EmoWell?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/Mansi168/EmoWell?style=for-the-badge" />
-
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/Mansi168/EmoWell?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/Mansi168/EmoWell?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Mansi168/EmoWell?style=for-the-badge" />
- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMansi168%2FEmoWell&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" />
-     </div>  
   
 <br>
 <br>
