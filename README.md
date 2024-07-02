@@ -117,8 +117,7 @@ npm run dev
 
 
 
-  <img src = "https://contrib.rocks/image?repo=Mansi168/EmoWell"/>
 
-</a>
+
 
 
