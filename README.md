@@ -15,8 +15,7 @@
 - [Website Overview](#Website-Overview)
 - [Key Features ✨](#Key-Features-✨)
 - [Components of Website](#Components-of-Website)
-- [🔖Steps to Contribute ✅](#🔖Steps-to-Contribute-✅)
-- [🔑Guidelines✨](#🔑Guidelines✨)
+  
 
 
 # About our project
