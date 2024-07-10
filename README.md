@@ -4,9 +4,7 @@
  <div align ="center">
  <img src="./src/images/mental-health.webp" />
  </div>
- <div>
-
-**Check the Website [here](https://devcation.vercel.app/)**.
+</div>
 
 ## TABLE OF CONTENTS
 
